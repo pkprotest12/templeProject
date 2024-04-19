@@ -704,6 +704,8 @@ img {
      .note{
    display:none;
 }
-
-    
+     .flower-thali {
+    left: -5px;
+    bottom: 31%;
+    width: 40px;    
  }

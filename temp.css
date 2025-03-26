@@ -594,7 +594,7 @@ img {
     position: absolute;
     top: 21%;
     left: 16.4%;
-    background: url(./image/desktop-wallpaper-god-ram-darbar-thumbnail.jpg) no-repeat;
+   /* background: url(./image/desktop-wallpaper-god-ram-darbar-thumbnail.jpg) no-repeat; */
     background-size: 100% 100%;
     width: 330px;
     height: 340px;
